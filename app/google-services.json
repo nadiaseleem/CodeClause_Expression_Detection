@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "709292842164",
+    "project_id": "expression-detection-b9b6a",
+    "storage_bucket": "expression-detection-b9b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709292842164:android:5c2740e89840aa574b0be1",
+        "android_client_info": {
+          "package_name": "com.example.expressiondetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb2bx-oU5MUJDPoFepXTFMTto_yelxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709292842164:android:aea17e3b35c136594b0be1",
+        "android_client_info": {
+          "package_name": "com.example.expressiondetectioncamerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb2bx-oU5MUJDPoFepXTFMTto_yelxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709292842164:android:89a5a52aa03e48644b0be1",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb2bx-oU5MUJDPoFepXTFMTto_yelxlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709292842164-604mtnn7o10g2sg4lav4r5i0ijikvgtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

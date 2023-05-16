@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ImageActivity">
+
+    <ImageView
+        android:id="@+id/imageToDetect"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType = "centerCrop"
+        android:background="@color/black"
+
+        />
+
+    <com.example.expressiondetectioncamerax.helper.graphicOverlay.GraphicsOverlay
+
+        android:id="@+id/graphic_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom = "true"
+        android:layout_marginBottom="68dp"
+        >
+
+        <com.hsalf.smileyrating.SmileyRating
+            android:id="@+id/smile_rating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+             />
+
+        <com.melnykov.fab.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:src="@drawable/baseline_find_replace_24"
+            android:tint="@color/white"
+            android:layout_weight="1"
+            app:fab_shadow="false"
+            android:layout_marginTop="20dp"
+            app:fab_colorNormal="@color/green"
+            app:fab_colorPressed="@color/grey"
+            app:fab_colorRipple="@color/white" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

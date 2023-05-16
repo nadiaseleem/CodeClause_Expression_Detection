@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Expression Detection</string>
+    <string name="bak_to_camera">back to camera</string>
+    <string name="right_eye_message">Please open your right eye!</string>
+    <string name="left_eye_message">Please open your left eye!</string>
+    <string name="both_eyes_message">Please open your eyes!</string>
+    <string name="photo_saved_successfully">Saved successfully</string>
+    <string name="photo_save_failed">Failed to save photo</string>
+    <string name="faces_detected">Detected</string>
+    <string name="faces_not_detected">No faces were detected</string>
+    <string name="processing_message">Please wait, processing…</string>
+    <string name="flash_not_available">Flash is not available currently</string>
+
+
+</resources>
+
