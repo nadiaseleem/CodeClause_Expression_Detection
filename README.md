@@ -9,13 +9,15 @@ an android camera app that leverages the power of CameraX library and Firebase M
 
 
 
+https://github.com/nadiaseleem/CodeClause_Expression_Detection/assets/37695970/42a527ad-88a3-4489-9fc1-91461d10102f
+
 
 
 </p>
 
 # 🌟 Libraries and technologies used
 
-- CameraX : a library that simplifies working with the camera in Android apps. It provides an easy-to-use API, works on older Android versions, manages the camera's lifecycle, and ensures consistent behavior across different devices.
+- CameraX : a library that simplifies working with the camera in Android apps. It provides an easy-to-use API, manages the camera's lifecycle, and ensures consistent behavior across different devices.
 
 
 - Firebase ML kit for Face Detection : a convenient and reliable tool that provides cloud-based processing, enabling advanced features like cloud landmark detection and face contours, all while ensuring optimal performance on Android devices.
